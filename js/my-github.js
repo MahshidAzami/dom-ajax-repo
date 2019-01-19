@@ -1,5 +1,5 @@
 // Write code here to communicate with Github
-console.log("jjj");
+
 const myGithub = document.getElementsByClassName("js-scroll-trigger")[2];
 const repoList = document.getElementById("repos-list");
 const repoNumbers = document.getElementById("repos-count");
