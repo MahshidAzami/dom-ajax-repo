@@ -24,5 +24,5 @@ function x() {
       return json;
     })
     .then(json => (repoNumbers.innerText = json.length))
-    .catch(() => alert("hi"));
+    .catch(() => alert("Try Again"));
 }
